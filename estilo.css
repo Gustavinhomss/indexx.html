@@ -30,7 +30,7 @@ table {
     background-color:burlywood;
 }
 
-.imagem1 {
+.imagem {
     border: 10px;
     padding: 3px;
     margin: 5px;
@@ -39,7 +39,7 @@ table {
     background-color:blue;
 }
 
-.imagem2 {
+.imagem {
     border: 10px;
     padding: 3px;
     margin: 5px;
@@ -48,7 +48,7 @@ table {
     background-color:white;
 }
 
-.imagem3 {
+.imagem {
     border: 10px;
     padding: 2px;
     margin: 5px;
